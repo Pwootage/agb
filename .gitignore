@@ -1,0 +1,7 @@
+.idea
+*.o
+*.bc
+src/web/gambatte.min.js
+src/web/gambatte.min.js.mem
+*.bin.js.mem
+*.gb
